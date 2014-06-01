@@ -2,4 +2,4 @@
 
 
 
-	module.exports = require( "./lib/StreamBuffer" );
+	module.exports = require('./lib/StreamBuffer');

@@ -1,7 +1,7 @@
 {
       "name"                    : "ee-stream-buffer"
     , "description"             : "creates a readable stream from a buffer"
-    , "version"                 : "0.1.0"
+    , "version"                 : "0.1.1"
     , "homepage"                : "https://github.com/eventEmitter/ee-stream-buffer"
     , "author"                  : "Michael van der Weg <michael@eventemitter.com> (http://eventemitter.com/)" 
     , "licence"                 : "MIT"
@@ -16,12 +16,12 @@
         "url"                   : "https://github.com/eventEmitter/ee-stream-buffer/issues"
     }
     , "dependencies": {
-          "ee-class"            : "*"
-        , "ee-log"              : "*"
-        , "ee-types"            : "*"
+          "ee-class"            : "1.0.x"
+        , "ee-log"              : "0.2.x"
+        , "ee-types"            : "0.1.x"
     }
     , "devDependencies": {        
-          "ee-stream-collector" : "*"
+          "ee-stream-collector" : "0.1.x"
     }
     , "optionalDependencies": {}
 }
