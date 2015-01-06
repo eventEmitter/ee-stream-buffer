@@ -1,11 +1,10 @@
 {
       "name"                    : "ee-stream-buffer"
     , "description"             : "creates a readable stream from a buffer"
-    , "version"                 : "0.1.1"
+    , "version"                 : "0.1.2"
     , "homepage"                : "https://github.com/eventEmitter/ee-stream-buffer"
     , "author"                  : "Michael van der Weg <michael@eventemitter.com> (http://eventemitter.com/)" 
     , "licence"                 : "MIT"
-    , "os"                      : "linux"
     , "repository": {
         "url"                   : "https://github.com/eventEmitter/ee-stream-buffer"
     }
