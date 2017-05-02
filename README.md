@@ -1,5 +1,7 @@
 # ee-stream-buffer
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/eventEmitter/ee-stream-buffer.svg)](https://greenkeeper.io/)
+
 creates a readable stream from a buffer
 
 ## installation
